@@ -4,7 +4,7 @@ Real estate comprehensive level evaluation algorithm based on reconstruction mul
 <h4 align="center">Source code for paper</h4>
 <p align="center">
   <a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=CGJM202003021&v=xAPOCLDYgVPIlvQKYvbIXR3TymlHjXhZhW4k7AhlYYGSNYqRU%25mmd2BkybpI2Ks%25mmd2FEM1Vj"><img src="http://img.shields.io/badge/Paper-PDF-red.svg"></a>
-  <a href=""><img src="http://img.shields.io/badge/Blog-Medium-9cf.svg"></a>
+  <a href="https://blog.csdn.net/weixin_39844633/article/details/111563651"><img src="http://img.shields.io/badge/Blog-Medium-9cf.svg"></a>
   <a href="https://github.com/svjan5/kg-reeval/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg">
   </a>
