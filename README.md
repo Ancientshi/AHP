@@ -20,14 +20,6 @@ more suitable for today's real estate data structure, data sample at the same ti
 
 ## Dependencies
 
-import pandas as pd
-from math import *
-import matplotlib.pyplot as plt
-import matplotlib as mpl
-import numpy as np
-from scipy.optimize import  fsolve
-import math
-
 - Compatible with Python 3.x.
 - Dependencies include pandas, math, matplotlib, numpy, scipy.
 
